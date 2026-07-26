@@ -9,3 +9,6 @@ console.log(name3 === name2);
 
 let newnum = null;
 let sum = undefined;
+let a = 4;
+let b = 4;
+console.log(a + b);
